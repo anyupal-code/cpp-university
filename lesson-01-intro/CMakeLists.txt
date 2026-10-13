@@ -1,0 +1,5 @@
+add_executable(hello hello.cpp)
+add_executable(structure structure.cpp)
+add_executable(io io.cpp)
+add_executable(types_intro types_intro.cpp)
+add_executable(arithmetic arithmetic.cpp)

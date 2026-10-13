@@ -1,0 +1,28 @@
+# Артефакты сборки CMake
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+/cmake-build-*/
+
+# Объектные файлы
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.bin
+
+# CLion
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Служебное
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
