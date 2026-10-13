@@ -1,0 +1,6 @@
+add_executable(new_delete new_delete.cpp)
+add_executable(dangling dangling.cpp)
+add_executable(leak_demo leak_demo.cpp)
+add_executable(references references.cpp)
+add_executable(unique_ptr_demo unique_ptr_demo.cpp)
+add_executable(shared_ptr_demo shared_ptr_demo.cpp)
