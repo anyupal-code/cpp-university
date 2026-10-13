@@ -1,0 +1,6 @@
+add_executable(static_array static_array.cpp)
+add_executable(array_algorithms array_algorithms.cpp)
+add_executable(std_array std_array.cpp)
+add_executable(vector_basic vector_basic.cpp)
+add_executable(vector_algorithms vector_algorithms.cpp)
+add_executable(dynamic_array dynamic_array.cpp)
