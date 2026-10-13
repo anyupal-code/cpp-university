@@ -1,0 +1,7 @@
+add_executable(functions_basic functions_basic.cpp)
+add_executable(params params.cpp)
+add_executable(default_args default_args.cpp)
+add_executable(overload overload.cpp)
+add_executable(recursion recursion.cpp)
+add_executable(hanoi hanoi.cpp)
+add_executable(inline_constexpr inline_constexpr.cpp)
