@@ -1,0 +1,6 @@
+add_executable(sizeofs sizeofs.cpp)
+add_executable(integer_limits integer_limits.cpp)
+add_executable(ieee754 ieee754.cpp)
+add_executable(bitwise bitwise.cpp)
+add_executable(bit_shifts bit_shifts.cpp)
+add_executable(unsigned_demo unsigned_demo.cpp)
