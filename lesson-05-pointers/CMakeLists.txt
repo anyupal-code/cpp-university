@@ -1,0 +1,6 @@
+add_executable(pointer_basic pointer_basic.cpp)
+add_executable(pointer_vs_value pointer_vs_value.cpp)
+add_executable(pointer_array pointer_array.cpp)
+add_executable(pointer_arith pointer_arith.cpp)
+add_executable(pointer_const pointer_const.cpp)
+add_executable(pointer_function pointer_function.cpp)
