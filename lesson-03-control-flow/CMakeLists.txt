@@ -1,0 +1,6 @@
+add_executable(if_demo if_demo.cpp)
+add_executable(switch_demo switch_demo.cpp)
+add_executable(loops loops.cpp)
+add_executable(range_for range_for.cpp)
+add_executable(break_continue break_continue.cpp)
+add_executable(ternary ternary.cpp)

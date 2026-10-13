@@ -14,3 +14,4 @@ endif()
 # Уроки — раскомментируем по мере готовности
 add_subdirectory(lesson-01-intro)
 add_subdirectory(lesson-02-memory-types)
+add_subdirectory(lesson-03-control-flow)
