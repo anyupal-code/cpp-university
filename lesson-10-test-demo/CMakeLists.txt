@@ -1,0 +1,5 @@
+add_executable(task1_spiral task1_spiral.cpp)
+add_executable(task2_atm task2_atm.cpp)
+add_executable(task3_palindrome task3_palindrome.cpp)
+add_executable(task4_sieve task4_sieve.cpp)
+add_executable(task5_students task5_students.cpp)
