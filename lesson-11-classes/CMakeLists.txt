@@ -1,0 +1,6 @@
+add_executable(class_basic class_basic.cpp)
+add_executable(constructors constructors.cpp)
+add_executable(destructor destructor.cpp)
+add_executable(operator_overload operator_overload.cpp)
+add_executable(copy_ctor copy_ctor.cpp)
+add_executable(rule_of_three rule_of_three.cpp)
