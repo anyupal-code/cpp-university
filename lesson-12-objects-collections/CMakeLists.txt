@@ -1,0 +1,6 @@
+add_executable(objects_in_vector objects_in_vector.cpp)
+add_executable(copy_semantics copy_semantics.cpp)
+add_executable(operator_advanced operator_advanced.cpp)
+add_executable(custom_vector custom_vector.cpp)
+add_executable(sort_objects sort_objects.cpp)
+add_executable(comparison_operators comparison_operators.cpp)
