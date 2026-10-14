@@ -1,0 +1,5 @@
+add_executable(task_ring_buffer task_ring_buffer.cpp)
+add_executable(task_undo task_undo.cpp)
+add_executable(task_sliding_window task_sliding_window.cpp)
+add_executable(task_top_k task_top_k.cpp)
+add_executable(task_word_freq task_word_freq.cpp)
