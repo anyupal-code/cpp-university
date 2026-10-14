@@ -1,0 +1,6 @@
+add_executable(lvalue_rvalue lvalue_rvalue.cpp)
+add_executable(rvalue_refs rvalue_refs.cpp)
+add_executable(move_ctor move_ctor.cpp)
+add_executable(move_assign move_assign.cpp)
+add_executable(std_move std_move.cpp)
+add_executable(perfect_forward perfect_forward.cpp)
