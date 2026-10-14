@@ -1,0 +1,6 @@
+add_executable(try_catch try_catch.cpp)
+add_executable(multiple_catch multiple_catch.cpp)
+add_executable(custom_exception custom_exception.cpp)
+add_executable(raii_demo raii_demo.cpp)
+add_executable(rule_of_five rule_of_five.cpp)
+add_executable(expected_demo expected_demo.cpp)
