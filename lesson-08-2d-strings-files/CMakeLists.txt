@@ -1,0 +1,6 @@
+add_executable(matrix_basic matrix_basic.cpp)
+add_executable(matrix_algorithms matrix_algorithms.cpp)
+add_executable(string_basic string_basic.cpp)
+add_executable(string_ops string_ops.cpp)
+add_executable(file_read file_read.cpp)
+add_executable(file_write file_write.cpp)
