@@ -1,0 +1,6 @@
+add_executable(unique_basic unique_basic.cpp)
+add_executable(unique_polymorphism unique_polymorphism.cpp)
+add_executable(shared_basic shared_basic.cpp)
+add_executable(shared_cycle shared_cycle.cpp)
+add_executable(weak_demo weak_demo.cpp)
+add_executable(smart_in_container smart_in_container.cpp)
