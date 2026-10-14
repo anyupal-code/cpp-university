@@ -1,0 +1,6 @@
+add_executable(vector_ops vector_ops.cpp)
+add_executable(vector_capacity vector_capacity.cpp)
+add_executable(deque_ops deque_ops.cpp)
+add_executable(list_ops list_ops.cpp)
+add_executable(container_compare container_compare.cpp)
+add_executable(array_demo array_demo.cpp)
