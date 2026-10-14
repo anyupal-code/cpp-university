@@ -1,0 +1,6 @@
+add_executable(struct_basic struct_basic.cpp)
+add_executable(struct_functions struct_functions.cpp)
+add_executable(struct_array struct_array.cpp)
+add_executable(struct_methods struct_methods.cpp)
+add_executable(enum_demo enum_demo.cpp)
+add_executable(enum_class_demo enum_class_demo.cpp)
