@@ -1,0 +1,6 @@
+add_executable(task_word_analysis task_word_analysis.cpp)
+add_executable(task_matrix_ops task_matrix_ops.cpp)
+add_executable(task_shapes_hierarchy task_shapes_hierarchy.cpp)
+add_executable(task_text_editor task_text_editor.cpp)
+add_executable(task_library task_library.cpp)
+add_executable(task_lru_cache task_lru_cache.cpp)
