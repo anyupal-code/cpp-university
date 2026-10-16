@@ -1,0 +1,6 @@
+add_executable(abstract_basic abstract_basic.cpp)
+add_executable(pure_virtual pure_virtual.cpp)
+add_executable(abstract_hierarchy abstract_hierarchy.cpp)
+add_executable(abstract_vs_concrete abstract_vs_concrete.cpp)
+add_executable(interface_demo interface_demo.cpp)
+add_executable(abstract_factory abstract_factory.cpp)
