@@ -1,0 +1,6 @@
+add_executable(map_basic map_basic.cpp)
+add_executable(map_count map_count.cpp)
+add_executable(set_basic set_basic.cpp)
+add_executable(set_ops set_ops.cpp)
+add_executable(unordered_basic unordered_basic.cpp)
+add_executable(custom_hash custom_hash.cpp)
