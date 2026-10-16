@@ -1,0 +1,5 @@
+add_executable(review_classes review_classes.cpp)
+add_executable(review_inheritance review_inheritance.cpp)
+add_executable(review_polymorphism review_polymorphism.cpp)
+add_executable(review_rule_of_five review_rule_of_five.cpp)
+add_executable(review_common_mistakes review_common_mistakes.cpp)
