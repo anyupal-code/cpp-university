@@ -1,0 +1,6 @@
+add_executable(inherit_basic inherit_basic.cpp)
+add_executable(protected_access protected_access.cpp)
+add_executable(constructor_order constructor_order.cpp)
+add_executable(inherit_vs_compose inherit_vs_compose.cpp)
+add_executable(virtual_destructor virtual_destructor.cpp)
+add_executable(employee_hierarchy employee_hierarchy.cpp)
