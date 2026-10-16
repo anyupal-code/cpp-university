@@ -1,0 +1,6 @@
+add_executable(multi_interface multi_interface.cpp)
+add_executable(plugin_system plugin_system.cpp)
+add_executable(drawable_demo drawable_demo.cpp)
+add_executable(chain_handlers chain_handlers.cpp)
+add_executable(comparable_demo comparable_demo.cpp)
+add_executable(pure_virtual_destructor pure_virtual_destructor.cpp)
