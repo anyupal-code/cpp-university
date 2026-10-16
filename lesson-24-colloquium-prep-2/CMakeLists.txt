@@ -1,0 +1,5 @@
+add_executable(practice_shapes practice_shapes.cpp)
+add_executable(practice_buffer practice_buffer.cpp)
+add_executable(practice_registry practice_registry.cpp)
+add_executable(practice_observer practice_observer.cpp)
+add_executable(practice_questions practice_questions.cpp)
