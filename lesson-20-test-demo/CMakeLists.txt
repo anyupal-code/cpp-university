@@ -1,0 +1,5 @@
+add_executable(task_duplicates task_duplicates.cpp)
+add_executable(task_grouping task_grouping.cpp)
+add_executable(task_sort_students task_sort_students.cpp)
+add_executable(task_two_sum task_two_sum.cpp)
+add_executable(task_text_stats task_text_stats.cpp)
