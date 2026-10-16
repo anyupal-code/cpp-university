@@ -1,0 +1,6 @@
+add_executable(virtual_basic virtual_basic.cpp)
+add_executable(slicing slicing.cpp)
+add_executable(dynamic_cast_demo dynamic_cast_demo.cpp)
+add_executable(static_cast_demo static_cast_demo.cpp)
+add_executable(typeid_demo typeid_demo.cpp)
+add_executable(polymorphic_container polymorphic_container.cpp)
