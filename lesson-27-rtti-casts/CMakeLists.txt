@@ -1,0 +1,6 @@
+add_executable(cast_overview cast_overview.cpp)
+add_executable(dynamic_cast_deep dynamic_cast_deep.cpp)
+add_executable(const_cast_demo const_cast_demo.cpp)
+add_executable(reinterpret_cast_demo reinterpret_cast_demo.cpp)
+add_executable(typeid_full typeid_full.cpp)
+add_executable(rtti_practical rtti_practical.cpp)
