@@ -1,0 +1,6 @@
+add_executable(algo_basic algo_basic.cpp)
+add_executable(algo_transform algo_transform.cpp)
+add_executable(algo_predicates algo_predicates.cpp)
+add_executable(algo_numeric algo_numeric.cpp)
+add_executable(ranges_demo ranges_demo.cpp)
+add_executable(lambdas_demo lambdas_demo.cpp)
